@@ -1,0 +1,6 @@
+{
+  "name": "Student Information System",
+  "description": "Comprehensive Student Information System (SIS) for GRT Institute with student biodata, gradebook & CGPA, fee ledger, examination schedules, multi-faculty leave requests, and AI academic advising.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
